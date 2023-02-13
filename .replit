@@ -1,0 +1,3 @@
+entrypoint = "index.js"
+run = "npx node ."
+hidden = [".config", "package-lock.json"]
